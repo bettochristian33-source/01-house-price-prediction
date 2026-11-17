@@ -1,0 +1,18 @@
+# Environnement virtuel
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Configuration locale
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables d'environnement
+.env
+
+# Secrets Streamlit
+.streamlit/secrets.toml
